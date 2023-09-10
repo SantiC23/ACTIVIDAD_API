@@ -1,0 +1,13 @@
+body {
+    background-color: #97ce4c;
+    
+}
+
+#personaje{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+
+
+}
